@@ -1,3 +1,8 @@
+I have followed your instruction and I become almost successful. EverydayI am learning git & github.
+
+Thanks.
+
+
 # Tutorial
 Go to here https://github.com/neslihankeskin/Nesli-RediSchool-Project/blob/master/Collaborate.md
 
